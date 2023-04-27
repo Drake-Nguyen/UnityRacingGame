@@ -17,9 +17,9 @@ Some assets used are taken from the unity store, and made without any commercial
 ### Due to the large nature of making a game and the assets there within, we cannot post the full files for every OS version, since GitHub only allows a max size of 2GB for file sharing for free accounts on Repos.
 As a result, heres the required links and steps necessary to play the game on your preferred format:
 ## Windows
-1. Download the project at this link (google drive should have a download all at the top right, which should autmatically zip the files for you):  
+1. Download the project at this link:  
 
-     Low res version: https://drive.google.com/drive/folders/1C5UyqzgBg6-8JnQSsFwbNWg-zcqmyh6G?usp=sharing 
+     Low res version: https://drive.google.com/file/d/1I0980Xe2qpJOo5AWxfblcqj1vdnbNo8q/view?usp=sharing 
      
      High res version: https://drive.google.com/file/d/1dnyd4_ljBqgay-aGoIP7fcMsz5PG1A9x/view?usp=sharing
 
@@ -28,7 +28,7 @@ As a result, heres the required links and steps necessary to play the game on yo
 4. Race
 
 ## Linux
-1. Download the project at this link (google drive should have a download all at the top right, which should autmatically zip the files for you):  
+1. Download the project at this link:  
 
       Low res version: https://drive.google.com/file/d/1O1YRhswCINOEm519tvJV9ENgAuDyG_gC/view?usp=sharing
      
