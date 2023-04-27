@@ -21,7 +21,6 @@ As a result, heres the required links and steps necessary to play the game on yo
 
      Low res version: https://drive.google.com/file/d/1I0980Xe2qpJOo5AWxfblcqj1vdnbNo8q/view?usp=sharing 
      
-     High res version: https://drive.google.com/file/d/1dnyd4_ljBqgay-aGoIP7fcMsz5PG1A9x/view?usp=sharing
 
 2. Once downloaded, go to your folder and extract the files somewhere for you to access easily
 3. Click and run the .exe called "My project race" (if you get a windows prompt that it isn't trusted, click more info and run).
@@ -32,7 +31,6 @@ As a result, heres the required links and steps necessary to play the game on yo
 
       Low res version: https://drive.google.com/file/d/1O1YRhswCINOEm519tvJV9ENgAuDyG_gC/view?usp=sharing
      
-      High res version: https://drive.google.com/file/d/1_o24x-JPbDJp6i6qvl67l7W8lH86aHFH/view?usp=sharing
 
 2. Once downloaded, go to your folder and extract the files somewhere for you to access easily
 3. Click and run the x86 called "My project race" (if you get a windows prompt that it isn't trusted, click more info and run).
