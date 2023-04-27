@@ -19,7 +19,7 @@ As a result, heres the required links and steps necessary to play the game on yo
 ## Windows
 1. Download the project at this link:  
 
-     Low res version: https://drive.google.com/file/d/1I0980Xe2qpJOo5AWxfblcqj1vdnbNo8q/view?usp=sharing 
+     Low res version: https://drive.google.com/file/d/1I0980Xe2qpJOo5AWxfblcqj1vdnbNo8q/view?usp=sharing
      
 
 2. Once downloaded, go to your folder and extract the files somewhere for you to access easily
@@ -29,7 +29,7 @@ As a result, heres the required links and steps necessary to play the game on yo
 ## Linux
 1. Download the project at this link:  
 
-      Low res version: https://drive.google.com/file/d/1O1YRhswCINOEm519tvJV9ENgAuDyG_gC/view?usp=sharing
+      Low res version: https://drive.google.com/file/d/1WAuSXwfGvTYAUOnWGsqePDQxgZ7d5URV/view?usp=sharing
      
 
 2. Once downloaded, go to your folder and extract the files somewhere for you to access easily
@@ -42,6 +42,11 @@ As a result, heres the required links and steps necessary to play the game on yo
  4. Race
 
 
-## Requirements
+# Requirements
 Working computer with Windows or Linux OS, mouse and keyboard
- - For linux, you do not need additional dependencies once you extract the file and run it properly. As everything should work out of the box.
+ - For linux, you should not need additional dependencies once you extract the file and run it properly. As everything should work out of the box.
+ 
+## Current Version
+If you have Unity and would like to take a look at the files and edit it, then this is the latest version of the race (Just extract the folder, and add the folder to unity hub):
+
+https://drive.google.com/file/d/1JGScyH-kJrsUL6iK6z1Yy4h_yNPCSXWR/view?usp=sharing
