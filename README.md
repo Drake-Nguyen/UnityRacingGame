@@ -50,3 +50,12 @@ Working computer with Windows or Linux OS, mouse and keyboard
 If you have Unity and would like to take a look at the files and edit it, then this is the latest version of the race (Just extract the folder, and add the folder to unity hub):
 
 https://drive.google.com/file/d/1JGScyH-kJrsUL6iK6z1Yy4h_yNPCSXWR/view?usp=sharing
+
+
+Want to check if you downloaded the right version?
+Here is a hash of the project folders, this hash value is for all the files within the folder AFTER EXTRACTING THE .ZIP
+
+The hash is the path with all the files, for example in linux, inside of ProjectRaceLinuxV#.
+
+This is the hash for the Linux Version:
+ > 5d5968e63764667c4b722a39d2f3032b 
