@@ -50,3 +50,17 @@ Working computer with Windows or Linux OS, mouse and keyboard
 If you have Unity and would like to take a look at the files and edit it, then this is the latest version of the race (Just extract the folder, and add the folder to unity hub):
 
 https://drive.google.com/file/d/1JGScyH-kJrsUL6iK6z1Yy4h_yNPCSXWR/view?usp=sharing
+
+## Version History on Google Drive
+
+https://drive.google.com/file/d/17L-1GMCt7g9d_fJv1sC16yy1Q0azsPHZ/view?usp=sharing
+https://drive.google.com/file/d/1lotYqw-jSjqgbnpOp2qgWHwRSBBYAuaM/view?usp=sharing
+https://drive.google.com/file/d/1zdzUH4MY7M4UWWznjO1Ad22_t6YcjHWz/view
+https://drive.google.com/file/d/1igNtfbbUZBRyhGnAhr6ZMMivwYmWChkQ/view
+https://drive.google.com/file/d/17MsmMPsb1Qx3KGGksMguh1PODKXPQFae/view
+https://drive.google.com/file/d/14PNlKkwnnLRT1zdHU7ZiNkPx_I_5ZiYe/view
+https://drive.google.com/file/d/1CxAvqGLU_urN5lwGAB6dxPpm-LeC0B_3/view?usp=sharing
+
+## Version History on Builds
+https://drive.google.com/file/d/1O1YRhswCINOEm519tvJV9ENgAuDyG_gC/view
+https://drive.google.com/file/d/1xYTVngivfTsP6ONNSAjjx7yYINfFYWzD/view?usp=sharing
